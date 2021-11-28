@@ -6,8 +6,8 @@ local isw = Instance.new("TextButton")
 local HGSP = Instance.new("TextButton") 
 local afk = Instance.new("TextButton") 
 local xButton = Instance.new("TextButton") 
-local OpenFrame = Instance.new("Frame") 
-local Open = Instance.new("TextButton") 
+local ОткрытьFrame = Instance.new("Frame") 
+local Открыть = Instance.new("TextButton") 
  
 GameScriptGui.Name = "GameScriptGui" 
 GameScriptGui.Parent = game.CoreGui 
