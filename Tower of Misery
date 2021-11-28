@@ -38,17 +38,6 @@ Header.Text = "Скрипт от Hello#0182"
 Header.TextColor3 = Color3.new(0.333333, 1, 1)
 Header.TextSize = 14
  
-HGSP.Name = "Высоскоростной"
-HGSP.Parent = MainFrame
-HGSP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
-HGSP.BorderSizePixel = 0
-HGSP.Position = UDim2.new(0.0283687934, 0, 0.180921048, 0)
-HGSP.Size = UDim2.new(0, 229, 0, 50)
-HGSP.Font = Enum.Font.SciFi
-HGSP.Text = "Высоскоростной (не работает)"
-HGSP.TextColor3 = Color3.new(0.333333, 1, 1)
-HGSP.TextSize = 14
- 
 isw.Name = "ins"
 isw.Parent = MainFrame
 isw.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
